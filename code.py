@@ -1,1 +1,1 @@
-me = 'Alex'
+name = 'Alex'
